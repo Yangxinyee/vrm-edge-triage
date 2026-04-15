@@ -1,4 +1,4 @@
-# VRM Core Code (CHASE 2026)
+# VRM Core Code
 
 Core implementation of **Variational Risk Minimization (VRM)** for chest X-ray triage:
 - multimodal teacher (BiomedCLIP + LQA),
