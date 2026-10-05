@@ -4,6 +4,7 @@ Official code for our paper in **Smart Health** (2026), presented as an **oral**
 
 [![Paper](https://img.shields.io/badge/Paper-Smart%20Health%202026-blue)](https://doi.org/10.1016/j.smhl.2026.100689)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.smhl.2026.100689-green)](https://doi.org/10.1016/j.smhl.2026.100689)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.02269-b31b1b)](https://arxiv.org/abs/2610.02269)
 
 **Xinye Yang**, Zhusi Zhong, Scott Collins, Michael Bernstein, Grayson Baird, Terrence Healey, Michael Atalay, Mahesh Jayaraman, Xuyu Wang, Zhicheng Jiao
 
@@ -114,6 +115,8 @@ If you use this code, please cite:
   volume  = {41},
   pages   = {100689},
   year    = {2026},
-  doi     = {10.1016/j.smhl.2026.100689}
+  doi     = {10.1016/j.smhl.2026.100689},
+  eprint  = {2610.02269},
+  archivePrefix = {arXiv}
 }
 ```
